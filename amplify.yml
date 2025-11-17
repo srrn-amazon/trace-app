@@ -1,4 +1,3 @@
-```yaml
 version: 1
 frontend:
   phases:
@@ -15,4 +14,3 @@ npm run build
   cache:
     paths:
 node_modules/*/
-```
